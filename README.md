@@ -6,3 +6,5 @@ sandbox
 ねこかわいいよねこ
 
 プルリクぷるぷる
+
+GO is GOD
