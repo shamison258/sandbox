@@ -17,9 +17,9 @@ GO is GOD
 =======
 
 $$
-
-\frac{x}{y} 
-
+\begin{eqnarray}
+\frac{x}{y}
+\end{eqnarray}
 $$
 
 \\( \frac{x}{y} \\)
