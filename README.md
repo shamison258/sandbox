@@ -3,9 +3,7 @@ sandbox
 
 練習場
 
-bbb
-
-aaa
+ccc
 
 ねこかわいいよねこ
 
