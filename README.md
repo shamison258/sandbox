@@ -10,6 +10,8 @@ ddd
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
+sugoino
+
 testやで
 
 mechacool!!!!!!!!!!!!!!!
