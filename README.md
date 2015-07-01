@@ -10,6 +10,8 @@ ddd
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
+ganbaru
+
 sugoino
 
 testやで
